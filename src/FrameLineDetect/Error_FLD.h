@@ -1,0 +1,10 @@
+#pragma once
+
+enum ERROR_FLD
+{
+	ERROR_NO =0,
+	ERROR_NO_FRAMELINE =1,
+	ERROR_IMAGE_INPUT =2,
+	ERROR_PARAM_INPUT =3,
+	
+}; 
